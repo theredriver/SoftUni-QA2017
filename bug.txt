@@ -1,2 +1,3 @@
 The bug were fixed.
 I'm adding new line. Let's see.
+That's looking good. ;)
